@@ -48,7 +48,7 @@ hydra -l Abhishek -P wordlist.txt 192.168.23.138 ssh
 
 ## 📊 Splunk SOC Triage Dashboard
 
-![Splunk SSH Brute Force Dashboard](Images/Dashboard)
+![Splunk SSH Brute Force Dashboard](Image/Dashboard)
 
 ### Dashboard Panels & SPL Queries
 

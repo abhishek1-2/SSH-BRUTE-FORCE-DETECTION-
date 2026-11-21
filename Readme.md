@@ -42,7 +42,7 @@ Using THC-Hydra on Kali Linux, a dictionary attack was launched against the targ
 hydra -l Abhishek -P wordlist.txt 192.168.23.138 ssh
 ```
 
-![Kali Linux Hydra Attack](images/kali-hydra-attack.png)
+![Kali Linux Hydra Attack](Image/Screensh)
 
 ---
 

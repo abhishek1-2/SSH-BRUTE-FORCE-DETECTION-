@@ -42,13 +42,13 @@ Using THC-Hydra on Kali Linux, a dictionary attack was launched against the targ
 hydra -l Abhishek -P wordlist.txt 192.168.23.138 ssh
 ```
 
-![Kali Linux Hydra Attack](Image/Screensh)
+![Kali Linux Hydra Attack](Image/Kail_linux)
 
 ---
 
 ## 📊 Splunk SOC Triage Dashboard
 
-![Splunk SSH Brute Force Dashboard](images/splunk-dashboard.png)
+![Splunk SSH Brute Force Dashboard](images/Dashboard)
 
 ### Dashboard Panels & SPL Queries
 
